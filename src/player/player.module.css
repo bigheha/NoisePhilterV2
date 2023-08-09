@@ -1,0 +1,19 @@
+.playerBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  grid-row: 2/3;
+  font-size: 3rem;
+}
+
+.controlBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 200px;
+  border-radius: 5rem;
+  background-color: rgb(30, 30, 30);
+  fill: white;
+  font-size: 10rem;
+}

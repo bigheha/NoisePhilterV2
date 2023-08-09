@@ -1,0 +1,5 @@
+.appGrid {
+  height: 100%;
+  display: grid;
+  grid-template-rows: 5% 90% 5%;
+}
